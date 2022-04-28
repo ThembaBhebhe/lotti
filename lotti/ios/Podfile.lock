@@ -35,11 +35,10 @@ PODS:
     - Flutter
   - flutter_secure_storage (3.3.1):
     - Flutter
-  - flutter_sound (8.5.0):
+  - flutter_sound (9.2.10):
     - Flutter
-    - flutter_sound_core (= 8.5.0)
-    - mobile-ffmpeg-audio (= 4.4.LTS)
-  - flutter_sound_core (8.5.0)
+    - flutter_sound_core (= 9.2.10)
+  - flutter_sound_core (9.2.10)
   - FMDB (2.7.5):
     - FMDB/standard (= 2.7.5)
   - FMDB/standard (2.7.5)
@@ -69,7 +68,6 @@ PODS:
   - Mantle (2.2.0):
     - Mantle/extobjc (= 2.2.0)
   - Mantle/extobjc (2.2.0)
-  - mobile-ffmpeg-audio (4.4.LTS)
   - MTBBarcodeScanner (5.0.11)
   - OrderedSet (5.0.0)
   - package_info_plus (0.4.5):
@@ -85,9 +83,9 @@ PODS:
     - Flutter
     - MTBBarcodeScanner
   - ReachabilitySwift (5.0.0)
-  - SDWebImage (5.12.4):
-    - SDWebImage/Core (= 5.12.4)
-  - SDWebImage/Core (5.12.4)
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
   - SDWebImageWebPCoder (0.8.4):
     - libwebp (~> 1.0)
     - SDWebImage/Core (~> 5.10)
@@ -96,16 +94,16 @@ PODS:
   - sqflite (0.0.2):
     - Flutter
     - FMDB (>= 2.7.5)
-  - sqlite3 (3.38.2):
-    - sqlite3/common (= 3.38.2)
-  - sqlite3/common (3.38.2)
-  - sqlite3/fts5 (3.38.2):
+  - sqlite3 (3.38.3):
+    - sqlite3/common (= 3.38.3)
+  - sqlite3/common (3.38.3)
+  - sqlite3/fts5 (3.38.3):
     - sqlite3/common
-  - sqlite3/json1 (3.38.2):
+  - sqlite3/json1 (3.38.3):
     - sqlite3/common
-  - sqlite3/perf-threadsafe (3.38.2):
+  - sqlite3/perf-threadsafe (3.38.3):
     - sqlite3/common
-  - sqlite3/rtree (3.38.2):
+  - sqlite3/rtree (3.38.3):
     - sqlite3/common
   - sqlite3_flutter_libs (0.0.1):
     - Flutter
@@ -159,7 +157,6 @@ SPEC REPOS:
     - FMDB
     - libwebp
     - Mantle
-    - mobile-ffmpeg-audio
     - MTBBarcodeScanner
     - OrderedSet
     - ReachabilitySwift
@@ -248,8 +245,8 @@ SPEC CHECKSUMS:
   flutter_native_splash: 52501b97d1c0a5f898d687f1646226c1f93c56ef
   flutter_native_timezone: 5f05b2de06c9776b4cc70e1839f03de178394d22
   flutter_secure_storage: 7953c38a04c3fdbb00571bcd87d8e3b5ceb9daec
-  flutter_sound: ba7daf658dea78e9f18b79657338bfc222489f4f
-  flutter_sound_core: d9396f10752a0df9aa3197f4c431d62d934918cc
+  flutter_sound: d6fafb8f9a3155c07c9194ada3401dc8e45c1bfb
+  flutter_sound_core: b89f0ea7601d13d57ecfd42d3b2fa47261810cad
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
   gallery_saver: 9fc173c9f4fcc48af53b2a9ebea1b643255be542
   health: e7a5807e45ec58fe6b89a730c97abc6caafe94a0
@@ -260,7 +257,6 @@ SPEC CHECKSUMS:
   libwebp: 98a37e597e40bfdb4c911fc98f2c53d0b12d05fc
   location: 3a2eed4dd2fab25e7b7baf2a9efefe82b512d740
   Mantle: c5aa8794a29a022dfbbfc9799af95f477a69b62d
-  mobile-ffmpeg-audio: 1e0a053f8a6de57114e50ff48b3a85ff1c60f902
   MTBBarcodeScanner: f453b33c4b7dfe545d8c6484ed744d55671788cb
   OrderedSet: aaeb196f7fef5a9edf55d89760da9176ad40b93c
   package_info_plus: 6c92f08e1f853dc01228d6f553146438dafcd14e
@@ -269,11 +265,11 @@ SPEC CHECKSUMS:
   photo_manager: 4f6810b7dfc4feb03b461ac1a70dacf91fba7604
   qr_code_scanner: bb67d64904c3b9658ada8c402e8b4d406d5d796e
   ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
-  SDWebImage: 631cf572cc93dfdfe54162e556410a61f1141928
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
   SDWebImageWebPCoder: f93010f3f6c031e2f8fb3081ca4ee6966c539815
   share_plus: 056a1e8ac890df3e33cb503afffaf1e9b4fbae68
   sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
-  sqlite3: e26e8422c1f5780d0a3db283eb095a03a10e121c
+  sqlite3: 3315c18c19fd107a68bf466f9f0adce934b03eaa
   sqlite3_flutter_libs: e21c8c90448ce608a0d685e717727c46f37c6695
   url_launcher_ios: 839c58cdb4279282219f5e248c3321761ff3c4de
   video_player_avfoundation: e489aac24ef5cf7af82702979ed16f2a5ef84cff
